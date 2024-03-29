@@ -1,6 +1,6 @@
 <script>
-	import '../css/app.css';
-    import '../css/font.css';
+	import '../sass/app.scss';
+    import '../sass/font.scss';
 </script>
 
 <slot />

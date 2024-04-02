@@ -1,1 +1,5 @@
-// place files you want to import through the `$lib` alias in this folder.
+import PrimaryButton from "./components/core/+primary-button.svelte";
+
+export {
+    PrimaryButton
+}

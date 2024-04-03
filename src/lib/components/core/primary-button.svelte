@@ -34,7 +34,7 @@
 	$: finalColorClass = `bg-${(mapping.find((mapp: ColorMap) => mapp.name === color)?.color || 'gray')}-600`;
 </script>
 
-<button class={finalColorClass + " text-white px-4 py-1.5"}>
+<button class={finalColorClass + "text-white px-4 py-1.5"}>
 	{text}
 </button>
 

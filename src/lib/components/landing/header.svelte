@@ -16,9 +16,9 @@
 </script>
 
 <div class="relative px-8">
-	<Navbar class="px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 start-0 border-b">
+	<Navbar class="px-2 sm:px-4 py-1 fixed w-full z-20 top-0 start-0 border-b">
 		<NavBrand href="/">
-			<span class="self-center whitespace-nowrap text-3xl font-semibold dark:text-white text-purple-700"
+			<span class="self-center whitespace-nowrap text-3xl font-semibold dark:text-white text-orange-500"
 				>OpenDataMalawi</span
 			>
 		</NavBrand>
@@ -29,6 +29,9 @@
 			<NavLi href="/contributions">Contributions</NavLi>
 			<NavLi href="/analytics">Analytics</NavLi>
 			<NavLi href="/contact">Contact  Us</NavLi>
+			<div>
+				dd
+			</div>
 		</NavUl>
 	</Navbar>
 </div>
